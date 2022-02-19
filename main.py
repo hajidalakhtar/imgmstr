@@ -19,7 +19,7 @@ def serve_pil_image(pil_img):
   
 @app.get("/")
 def read_root():
-    return {"Hello": "World"}
+    return {"Hello": "Wofdsfsdfrld"}
 
 
 
