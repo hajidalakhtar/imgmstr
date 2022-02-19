@@ -40,4 +40,4 @@ def read_root(url:str = None,rotate:str = None,flip:str = None,w:str = None,blur
     
       return serve_pil_image(return_img)
     else:
-      return "https://imgmstr.vercel.app?url=https://images.ctfassets.net/23aumh6u8s0i/1T1ohGJuh0B6wqNSwUuXy8/60206973f801267676b9b7f98c34eaea/04_solid_pixels&w=1800&blur=10"
+      return ""https://imgmstr.vercel.app/?url=https://cdnb.artstation.com/p/assets/images/images/024/538/889/large/pixel-jeff-rog-demo1.jpg&w=1800&flip=true&blur=10""
