@@ -17,14 +17,14 @@ def serve_pil_image(pil_img):
 
 
   
-@app.get("/")
-def read_root():
-    return {"Hello": "Wofdsfsdfrld"}
+# @app.get("/")
+# def read_root():
+#     return {"Hello": "Wofdsfsdfrld"}
 
 
 
-@app.get('/img')
-def image(url:str = None,rotate:str = None,flip:str = None,w:str = None,blur:str = None):
+@app.get('/')
+def read_root(url:str = None,rotate:str = None,flip:str = None,w:str = None,blur:str = None):
     img_url = url
     rotate = rotate
     flip = flip
