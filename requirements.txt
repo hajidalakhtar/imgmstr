@@ -3,4 +3,3 @@ uvicorn
 Pillow
 requests
 starlette
-fontTools

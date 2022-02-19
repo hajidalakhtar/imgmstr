@@ -3,7 +3,6 @@ import requests
 from PIL import Image,ImageFilter, ImageDraw, ImageFont
 from io import BytesIO
 from starlette.responses import StreamingResponse
-from fontTools.ttLib import TTFont
 
 #APIRouter creates path operations for user module
 router = APIRouter()
