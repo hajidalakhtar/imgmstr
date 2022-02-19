@@ -66,4 +66,4 @@ def read_root(
     
       return serve_pil_image(return_img)
     else:
-      return "https://imgmstr.vercel.app/?url=https://cdnb.artstation.com/p/assets/images/images/024/538/889/large/pixel-jeff-rog-demo1.jpg&w=1800&flip=true&blur=10"
+      return "https://imgmstr.vercel.app/?url=https://cdnb.artstation.com/p/assets/images/images/024/538/889/large/pixel-jeff-rog-demo1.jpg&w=1800&blur=10"
