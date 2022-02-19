@@ -47,7 +47,7 @@ def read_root(url:str = None,rotate:str = None,flip:str = None,w:str = None,blur
     
       return serve_pil_image(return_img)
     else:
-      return "https://magicimage.hajidalakhtar.repl.co/img?url=https://images.ctfassets.net/23aumh6u8s0i/1T1ohGJuh0B6wqNSwUuXy8/60206973f801267676b9b7f98c34eaea/04_solid_pixels&w=1800&blur=10"
+      return "https://imgmstr.vercel.app?url=https://images.ctfassets.net/23aumh6u8s0i/1T1ohGJuh0B6wqNSwUuXy8/60206973f801267676b9b7f98c34eaea/04_solid_pixels&w=1800&blur=10"
 
 # uvicorn.run(app,host="0.0.0.0",port="8080")
 
