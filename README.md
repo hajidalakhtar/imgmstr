@@ -58,7 +58,7 @@ https://imgmstr.vercel.app/?url=IMG_URL&wm_text=WATERMARK TEXT&wm_text_color=HEX
 
 </body>
 </html>
-```
+```html
 
 
 
