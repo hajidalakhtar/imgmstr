@@ -36,7 +36,7 @@ https://imgmstr.vercel.app/?url=IMG_URL&blur=BLUR_LEVEL
 https://imgmstr.vercel.app/?url=IMG_URL&wm_text=WATERMARK TEXT&wm_text_color=HEXACOLOR (optional)&wm_text_size=PIXEL (optional)
 ```
 ## Using with html
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -58,7 +58,7 @@ https://imgmstr.vercel.app/?url=IMG_URL&wm_text=WATERMARK TEXT&wm_text_color=HEX
 
 </body>
 </html>
-```html
+```
 
 
 
