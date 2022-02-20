@@ -7,6 +7,7 @@ A simple URL to handle any image for your app
 * Rotate 
 * Resizes 
 * Blur 
+* Flip
 * Watermark   
 
 
@@ -17,6 +18,12 @@ A simple URL to handle any image for your app
 ```
 https://imgmstr.vercel.app/?url=IMG_URL&w=IMG_SIZE
 ```
+**Flip** [Try It](https://imgmstr.vercel.app/?url=https://cdnb.artstation.com/p/assets/images/images/024/538/889/large/pixel-jeff-rog-demo1.jpg&w=750$flip=true).
+
+```
+https://imgmstr.vercel.app/?url=IMG_URL&flip=true
+```
+
 
 **Rotate** [Try It](https://imgmstr.vercel.app/?url=https://cdnb.artstation.com/p/assets/images/images/024/538/889/large/pixel-jeff-rog-demo1.jpg&rotate=20).
 
