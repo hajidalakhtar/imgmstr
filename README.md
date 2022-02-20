@@ -42,7 +42,9 @@ https://imgmstr.vercel.app/?url=IMG_URL&blur=BLUR_LEVEL
 ```
 https://imgmstr.vercel.app/?url=IMG_URL&wm_text=WATERMARK TEXT&wm_text_color=HEXACOLOR (optional)&wm_text_size=PIXEL (optional)
 ```
-## Using with html
+## Using with html [Try It] https://codepen.io/hajidalakhtar/pen/eYeMWGz).
+
+
 ```html
 <!DOCTYPE html>
 <html>
